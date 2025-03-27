@@ -7,11 +7,14 @@ Proyek ini bertujuan untuk menganalisis data E-Commerce dan menjawab beberapa pe
 
 1.1. Buat Environment Baru:
 
-conda create --name ecommerce_publik python=3.11.7
+!pip install virtualenv
+!virtualenv my_env
+!source my_env/bin/activate  # Aktifkan environment
+
 
 1.2. Aktifkan Environment:
 
-conda activate ecommerce_publik
+conda activate bikers_sharing
 
 1.3. Pindah ke direktori proyek Anda:
 
