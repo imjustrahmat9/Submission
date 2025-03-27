@@ -128,7 +128,7 @@ def main():
         st.warning("Kolom 'hr_x' atau 'cnt_y_x' tidak ditemukan dalam dataset yang digunakan.")
 
     # Visualisasi pola musiman
-    st.subheader("☁️ Apakah kondisi cuaca berpengaruh terhadap jumlah penyewaan sepeda?")
+    st.subheader("☁️ Bagaimana kondisi cuaca berpengaruh terhadap jumlah penyewaan sepeda?")
 
     # Mapping kondisi cuaca
     weathersit_mapping = {1: "Clear", 2: "Mist", 3: "Light Rain/Snow", 4: "Heavy Rain/Snow"}
