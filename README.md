@@ -1,9 +1,9 @@
 # BELAJAR-ANALISIS-DATA-PYTHON
 
-Proyek Analisis Data E-Commerce Public
+Proyek Analisis Data Bike Sharing
 
 Proyek ini bertujuan untuk menganalisis data E-Commerce dan menjawab beberapa pertanyaan bisnis penting.
-1. Setup Environment - Anaconda
+1. Setup Environment - Google Colab
 
 1.1. Buat Environment Baru:
 
