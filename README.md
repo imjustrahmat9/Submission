@@ -20,6 +20,8 @@ cd C:\Users\USER\Project_Python\Dicoding\proyek_analisis_data
 1.4. Instal Dependensi:
 
 pip install -r requirements.tx
+
+
 2. Setup Environment - Shell/Terminal
 
 2.1. Buat Direktori Proyek:
@@ -33,6 +35,9 @@ pip install pipenv pipenv install pipenv shell
 2.3. Instal Dependensi:
 
 pip install -r requirements.txt
+
+
+
 3. Run steamlit app
 
 streamlit run dashboard.py
